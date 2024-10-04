@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # PAGE SETTINGS
 # ----------------------------------------------------------------------------
-app_title = 'Illinois Dashboard - 2024'
-page_title = 'Illinois 2024'
+app_title = 'Illinois Environmental Education Directory'
+page_title = 'Illinois Environmental Education Directory'
 sub_title = 'Filter on'
 filter_category_1 = 'Organization Data'
 filter_category_2 = 'Program Data'
